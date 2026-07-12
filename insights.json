@@ -1,6 +1,58 @@
 [
   {
     "category": "Playbook",
+    "title": "Dashboard‑first design beats agent‑first for revenue impact",
+    "dek": "Start with an insight dashboard, then add the autonomous AI agent. This can help embed the revenue‑engine loop—data capture, insight, action—into the workflow. GTM leaders who codify the loop may avoid flashy tools that don’t fit the operating model, potentially leading to higher adoption and measurable pipeline impact.",
+    "date": "2026-07",
+    "readTime": "3 min",
+    "sources": [
+      {
+        "label": "SaaStr",
+        "url": "https://www.saastr.com/one-way-to-build-a-great-ai-agent-just-start-with-a-dashboard-then-add-the-agent/"
+      }
+    ]
+  },
+  {
+    "category": "Signal",
+    "title": "AI agents stall without a dedicated sales execution layer",
+    "dek": "Without a dedicated execution layer—pipeline hygiene, automated follow‑up, AI‑driven playbooks—model outputs may not reach the revenue loop. GTM leaders could benefit from a sales‑execution engine to turn AI insights into concrete actions, which may help translate an agent‑ready stack into more predictable pipeline growth.",
+    "date": "2026-07",
+    "readTime": "3 min",
+    "sources": [
+      {
+        "label": "GTMNow",
+        "url": "https://gtmnow.com/gtm-196-ai-sales-execution-gap-adam-liska-airspeed/"
+      }
+    ]
+  },
+  {
+    "category": "Data",
+    "title": "Six new metrics let RevOps measure AI’s contribution to ARR",
+    "dek": "ICONIQ’s 2026 State of AI Report adds several new metrics, including model cost per dollar, adoption velocity, AI‑driven ARR per token, and other leading‑indicator measures. RevOps can use these data points as feedback loops for a revenue engine, and tracking them may help turn AI hype into more accountable financial performance.",
+    "date": "2026-07",
+    "readTime": "3 min",
+    "sources": [
+      {
+        "label": "SaaStr",
+        "url": "https://www.saastr.com/the-builders-economy-10-metrics-from-iconiqs-newest-2026-state-of-ai-report/"
+      }
+    ]
+  },
+  {
+    "category": "Field Note",
+    "title": "AI‑native firms scale enterprise sales through a repeatable loop",
+    "dek": "Product‑qualified leads can feed AI‑driven demos, which may trigger contract automation and feed renewal analytics. Traditional sales orgs might miss this loop, leading to inefficiency and higher cost‑of‑sale. GTM leaders who align RevOps around these stages could scale direct enterprise sales without adding headcount.",
+    "date": "2026-07",
+    "readTime": "3 min",
+    "sources": [
+      {
+        "label": "GTMNow",
+        "url": "https://gtmnow.com/how-ai-native-companies-are-scaling-on-a-direct-enterprise-sales-motion/"
+      }
+    ]
+  },
+  {
+    "category": "Playbook",
     "title": "Begin with a dashboard, then add AI agents to secure observability and revenue‑engine alignment",
     "dek": "Building a dashboard first forces GTM teams to map data flows, define success metrics, and set hand‑off points before any autonomous action. This observability layer reduces blind spots, speeds model validation, and ties agent decisions to revenue outcomes. Leaders can embed the dashboard in RevOps scorecards, turning AI into a measurable engine.",
     "date": "2026-07",
