@@ -1,12 +1,41 @@
 [
   {
+    "category": "Field Note",
+    "title": "Churn is a Silent Killer of Growth; Stop Losing Customers Early",
+    "dek": "High churn negates expansion and erodes ARR, the article stresses that early retention signals must be surfaced and acted upon to prevent cascading losses. Revenue leaders should embed proactive customer success checks into their GTM engine.",
+    "date": "2026-07",
+    "readTime": "2 min",
+    "sources": [
+      {
+        "label": "Dear SaaStr: How Do We Reduce Churn?",
+        "url": "https://www.saastr.com/dear-saastr-how-do-we-reduce-churn/"
+      }
+    ]
+  },
+  {
+    "category": "Playbook",
+    "title": "Direct Enterprise Sales Works for AI‑Native Companies",
+    "dek": "Companies such as Legora, Sierra and Decagon demonstrate that scaling via a direct enterprise sales motion is viable for AI natives. GTM leaders should equip their teams with data‑driven outreach tooling to replicate this success.",
+    "date": "2026-07",
+    "readTime": "2 min",
+    "sources": [
+      {
+        "label": "How AI-Native Companies Are Scaling on a Direct Enterprise Sales Motion",
+        "url": "https://gtmnow.com/how-ai-native-companies-are-scaling-on-a-direct-enterprise-sales-motion/"
+      }
+    ]
+  },
+  {
     "category": "Signal",
     "title": "Gong wrapped its agents in a governance layer — the tool got agent-ready, the operating model is the work left",
     "dek": "On June 24, 2026, Gong launched \"Mission Big Dipper\" and the Gong Revenue Harness, an agentic execution layer that governs and orchestrates AI agents across the revenue cycle, built on its Agent Studio and MCP support. The interesting move is not the dozen new agents. It is that Gong is selling orchestration and governance — an admission that agents without a defined process create risk, not revenue. If you buy the agents but skip the loop design — Signal to Reasoning to Action to System of Record — you inherited a faster way to do an undefined job.",
     "date": "2026-06",
     "readTime": "3 min",
     "sources": [
-      { "label": "Gong press release (PR Newswire), Jun 24 2026", "url": "https://www.prnewswire.com/news-releases/gong-launches-mission-big-dipper-unveils-industry-first-revenue-harness-302808677.html" }
+      {
+        "label": "Gong press release (PR Newswire), Jun 24 2026",
+        "url": "https://www.prnewswire.com/news-releases/gong-launches-mission-big-dipper-unveils-industry-first-revenue-harness-302808677.html"
+      }
     ]
   },
   {
@@ -16,7 +45,10 @@
     "date": "2026-06",
     "readTime": "3 min",
     "sources": [
-      { "label": "Model Context Protocol Blog, Jun 18 2026", "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/" }
+      {
+        "label": "Model Context Protocol Blog, Jun 18 2026",
+        "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/"
+      }
     ]
   },
   {
@@ -26,8 +58,14 @@
     "date": "2026-05",
     "readTime": "3 min",
     "sources": [
-      { "label": "Salesforce Q1 FY2027 results, May 27 2026", "url": "https://www.salesforce.com/news/press-releases/2026/05/27/fy27-q1-earnings/" },
-      { "label": "Salesforce Q3 FY2026 results, Dec 3 2025", "url": "https://www.salesforce.com/news/press-releases/2025/12/03/fy26-q3-earnings/" }
+      {
+        "label": "Salesforce Q1 FY2027 results, May 27 2026",
+        "url": "https://www.salesforce.com/news/press-releases/2026/05/27/fy27-q1-earnings/"
+      },
+      {
+        "label": "Salesforce Q3 FY2026 results, Dec 3 2025",
+        "url": "https://www.salesforce.com/news/press-releases/2025/12/03/fy26-q3-earnings/"
+      }
     ]
   },
   {
@@ -37,7 +75,10 @@
     "date": "2026-05",
     "readTime": "4 min",
     "sources": [
-      { "label": "ICONIQ Growth — Building the Modern GTM Org (May 2026)", "url": "https://www.iconiq.com/growth/reports/gtm-org-structure-ai-2026" }
+      {
+        "label": "ICONIQ Growth — Building the Modern GTM Org (May 2026)",
+        "url": "https://www.iconiq.com/growth/reports/gtm-org-structure-ai-2026"
+      }
     ]
   },
   {
@@ -47,7 +88,10 @@
     "date": "2026-04",
     "readTime": "4 min",
     "sources": [
-      { "label": "GTMnow Podcast — Jon Addison, Okta CRO, Apr 29 2026", "url": "https://gtmnow.com/okta-ai-agents-identity-security-crisis-jon-addison/" }
+      {
+        "label": "GTMnow Podcast — Jon Addison, Okta CRO, Apr 29 2026",
+        "url": "https://gtmnow.com/okta-ai-agents-identity-security-crisis-jon-addison/"
+      }
     ]
   },
   {
@@ -57,7 +101,10 @@
     "date": "2026-07",
     "readTime": "2 min",
     "sources": [
-      { "label": "Frontier Revenue — Autonomous GTM Engine: Lead Routing", "url": "/autonomous-gtm-engine/lead-routing" }
+      {
+        "label": "Frontier Revenue — Autonomous GTM Engine: Lead Routing",
+        "url": "/autonomous-gtm-engine/lead-routing"
+      }
     ]
   }
 ]
