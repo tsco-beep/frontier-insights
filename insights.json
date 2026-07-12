@@ -52,32 +52,6 @@
     ]
   },
   {
-    "category": "Playbook",
-    "title": "Begin with a dashboard, then add AI agents to secure observability and revenue‑engine alignment",
-    "dek": "Building a dashboard first forces GTM teams to map data flows, define success metrics, and set hand‑off points before any autonomous action. This observability layer reduces blind spots, speeds model validation, and ties agent decisions to revenue outcomes. Leaders can embed the dashboard in RevOps scorecards, turning AI into a measurable engine.",
-    "date": "2026-07",
-    "readTime": "3 min",
-    "sources": [
-      {
-        "label": "SaaStr",
-        "url": "https://www.saastr.com/one-way-to-build-a-great-ai-agent-just-start-with-a-dashboard-then-add-the-agent/"
-      }
-    ]
-  },
-  {
-    "category": "Data",
-    "title": "ARR per model and cost‑per‑token ROI become new north stars for AI‑driven revenue",
-    "dek": "ICONIQ’s 2026 State of AI report surfaces concrete loop‑level metrics—ARR per model, ROI per token, and adoption velocity—that move AI conversations from proof‑of‑concept to proof‑of‑payoff. GTM leaders can plug these metrics into RevOps dashboards to track real revenue impact and justify AI spend. The data also creates a common language between product, finance, and sales for budgeting and forecasting.",
-    "date": "2026-07",
-    "readTime": "4 min",
-    "sources": [
-      {
-        "label": "SaaStr",
-        "url": "https://www.saastr.com/the-builders-economy-10-metrics-from-iconiqs-newest-2026-state-of-ai-report/"
-      }
-    ]
-  },
-  {
     "category": "Field Note",
     "title": "Churn is a Silent Killer of Growth; Stop Losing Customers Early",
     "dek": "High churn negates expansion and erodes ARR, the article stresses that early retention signals must be surfaced and acted upon to prevent cascading losses. Revenue leaders should embed proactive customer success checks into their GTM engine.",
@@ -87,19 +61,6 @@
       {
         "label": "Dear SaaStr: How Do We Reduce Churn?",
         "url": "https://www.saastr.com/dear-saastr-how-do-we-reduce-churn/"
-      }
-    ]
-  },
-  {
-    "category": "Playbook",
-    "title": "Direct Enterprise Sales Works for AI‑Native Companies",
-    "dek": "Companies such as Legora, Sierra and Decagon demonstrate that scaling via a direct enterprise sales motion is viable for AI natives. GTM leaders should equip their teams with data‑driven outreach tooling to replicate this success.",
-    "date": "2026-07",
-    "readTime": "2 min",
-    "sources": [
-      {
-        "label": "How AI-Native Companies Are Scaling on a Direct Enterprise Sales Motion",
-        "url": "https://gtmnow.com/how-ai-native-companies-are-scaling-on-a-direct-enterprise-sales-motion/"
       }
     ]
   },
