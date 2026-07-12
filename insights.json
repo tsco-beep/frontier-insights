@@ -1,0 +1,63 @@
+[
+  {
+    "category": "Signal",
+    "title": "Gong wrapped its agents in a governance layer — the tool got agent-ready, the operating model is the work left",
+    "dek": "On June 24, 2026, Gong launched \"Mission Big Dipper\" and the Gong Revenue Harness, an agentic execution layer that governs and orchestrates AI agents across the revenue cycle, built on its Agent Studio and MCP support. The interesting move is not the dozen new agents. It is that Gong is selling orchestration and governance — an admission that agents without a defined process create risk, not revenue. If you buy the agents but skip the loop design — Signal to Reasoning to Action to System of Record — you inherited a faster way to do an undefined job.",
+    "date": "2026-06",
+    "readTime": "3 min",
+    "sources": [
+      { "label": "Gong press release (PR Newswire), Jun 24 2026", "url": "https://www.prnewswire.com/news-releases/gong-launches-mission-big-dipper-unveils-industry-first-revenue-harness-302808677.html" }
+    ]
+  },
+  {
+    "category": "State of Play",
+    "title": "MCP just got an enterprise auth layer — the CRM spine can now connect once and inherit everywhere",
+    "dek": "On June 18, 2026, the Model Context Protocol's Enterprise-Managed Authorization extension went stable, letting an org provision MCP server access through its identity provider so tools connect on first login with no per-app OAuth. Okta ships first as the IdP; Anthropic, Microsoft, and VS Code are early clients; Asana, Atlassian, Canva, Figma, Granola, and Linear are among the servers. For RevOps, this removes the quiet tax that kept most integrations switched off: the per-user consent grind. The plumbing to make your CRM and warehouse a governed spine for agents is now a login, not a project.",
+    "date": "2026-06",
+    "readTime": "3 min",
+    "sources": [
+      { "label": "Model Context Protocol Blog, Jun 18 2026", "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/" }
+    ]
+  },
+  {
+    "category": "Data",
+    "title": "Salesforce Agentforce crossed $1B ARR — proof platforms went agent-ready faster than the process around them",
+    "dek": "In Q1 FY2027 (reported May 27, 2026), Salesforce said Agentforce ARR passed $1 billion, reaching $1.2B, up 205% year over year; combined AI and data ARR (Agentforce plus Data 360) hit ~$3.4B. Two quarters earlier, in Q3 FY2026, Agentforce alone had only \"surpassed half a billion,\" with the bundle near $1.4B — a reminder that ARR figures swing by quarter and by what's bundled. The pricing tells the real story: Salesforce shifted to agentic license agreements and premium SKUs to \"remove friction.\" Define the loop before you buy the seats.",
+    "date": "2026-05",
+    "readTime": "3 min",
+    "sources": [
+      { "label": "Salesforce Q1 FY2027 results, May 27 2026", "url": "https://www.salesforce.com/news/press-releases/2026/05/27/fy27-q1-earnings/" },
+      { "label": "Salesforce Q3 FY2026 results, Dec 3 2025", "url": "https://www.salesforce.com/news/press-releases/2025/12/03/fy26-q3-earnings/" }
+    ]
+  },
+  {
+    "category": "State of Play",
+    "title": "The best GTM teams aren't buying enablement tools — they're turning top reps into tool builders",
+    "dek": "ICONIQ's May 2026 \"Building the Modern GTM Org\" report found high-AI-adoption teams generate roughly 2x net-new ARR per GTM FTE ($640K vs $370K) and ~10-point lifts in conversion (lead-to-MQL 38% vs 27%; MQL-to-SQL 37% vs 29%). The pattern underneath: some top AEs are moving into internal tooling roles, and teams are choosing to build AI capacity rather than simply add headcount. The takeaway isn't \"buy AI\" — it's re-org around who can build with it.",
+    "date": "2026-05",
+    "readTime": "4 min",
+    "sources": [
+      { "label": "ICONIQ Growth — Building the Modern GTM Org (May 2026)", "url": "https://www.iconiq.com/growth/reports/gtm-org-structure-ai-2026" }
+    ]
+  },
+  {
+    "category": "Signal",
+    "title": "Okta's CRO says the first sales call is now validation, not discovery — and rebuilt the methodology around it",
+    "dek": "On the GTMnow Podcast (April 29, 2026), Okta CRO Jon Addison described a turnaround from roughly $850M in operating losses to over $760M in operating income, and named GTM specialization as decision one. Buyers now arrive with opinions formed before any rep shows up, so Okta reframed the traditional first call from discovery to validation and built a new methodology, APEX, on top of Command of the Message. The lesson for revenue leaders: the front of the funnel changed shape, so the playbook has to change with it.",
+    "date": "2026-04",
+    "readTime": "4 min",
+    "sources": [
+      { "label": "GTMnow Podcast — Jon Addison, Okta CRO, Apr 29 2026", "url": "https://gtmnow.com/okta-ai-agents-identity-security-crisis-jon-addison/" }
+    ]
+  },
+  {
+    "category": "Field Note",
+    "title": "Before you route a lead to an agent, write down the three checks a human does in five seconds",
+    "dek": "Teams rush to automate lead routing and then wonder why good leads stall. Sit with your best SDR and capture the snap judgments they make — the fit read, the intent read, the timing read — that they can't quite articulate but never get wrong. Encode those three checks as the routing rule, and only then hand the loop to an agent. Automation amplifies whatever logic you feed it; make sure it's the logic your best human already trusts.",
+    "date": "2026-07",
+    "readTime": "2 min",
+    "sources": [
+      { "label": "Frontier Revenue — Autonomous GTM Engine: Lead Routing", "url": "/autonomous-gtm-engine/lead-routing" }
+    ]
+  }
+]
