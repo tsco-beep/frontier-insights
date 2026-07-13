@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "category": "product",
+    "title": "gpt-4 turbo halves latency for enterprise apps",
+    "dek": "OpenAI’s GPT‑4 Turbo delivers roughly 2× faster response times and costs about half as much as the original GPT‑4, making it a cost‑effective upgrade for customer‑facing AI solutions. For example, the model is priced at $0.003 per 1,000 tokens versus $0.006 for GPT‑4, enabling larger query volumes without inflating budgets.",
+    "date": "2026-07",
+    "readTime": "3 min",
+    "sources": [
+      {
+        "label": "OpenAI Blog",
+        "url": "https://openai.com/blog/gpt-4-turbo"
+      }
+    ]
+  }
+]
