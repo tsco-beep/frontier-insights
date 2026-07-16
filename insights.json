@@ -1,5 +1,44 @@
 [
   {
+    "category": "Technology",
+    "title": "Apple Unveils iPhone 17 with Enhanced Satellite Connectivity",
+    "dek": "Apple announced the iPhone 17 on September 12, 2026, featuring dual‑satellite bands for global emergency messaging and a new low‑power GPS chip.",
+    "date": "2026-09-12",
+    "readTime": "3 min",
+    "sources": [
+      {
+        "label": "Apple Newsroom",
+        "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-17-with-enhanced-satellite-connectivity/"
+      }
+    ]
+  },
+  {
+    "category": "Finance",
+    "title": "Tesla Beats Q2 2026 Earnings Expectations with $2.3 B Net Income",
+    "dek": "Tesla reported a net income of $2.3 billion for the second quarter of 2026, surpassing analysts' consensus estimate of $1.9 billion, driven by record vehicle deliveries and higher software revenue.",
+    "date": "2026-07-23",
+    "readTime": "3 min",
+    "sources": [
+      {
+        "label": "Tesla Investor Relations",
+        "url": "https://ir.tesla.com/press-release/tesla-reports-second-quarter-2026-results"
+      }
+    ]
+  },
+  {
+    "category": "Health",
+    "title": "FDA Grants Full Approval to Moderna’s mRNA Flu Vaccine",
+    "dek": "The U.S. Food and Drug Administration issued full approval for Moderna’s mRNA‑based influenza vaccine on June 5, 2026, marking the first mRNA flu shot cleared for seasonal use.",
+    "date": "2026-06-05",
+    "readTime": "3 min",
+    "sources": [
+      {
+        "label": "FDA Press Release",
+        "url": "https://www.fda.gov/news-events/press-announcements/fda-grants-full-approval-moderna-mrna-flu-vaccine"
+      }
+    ]
+  },
+  {
     "category": "product",
     "title": "gpt-4 turbo halves latency for enterprise apps",
     "dek": "OpenAI’s GPT‑4 Turbo delivers roughly 2× faster response times and costs about half as much as the original GPT‑4, making it a cost‑effective upgrade for customer‑facing AI solutions. For example, the model is priced at $0.003 per 1,000 tokens versus $0.006 for GPT‑4, enabling larger query volumes without inflating budgets.",
