@@ -1,0 +1,181 @@
+[
+  {
+    "id": "binary-deal-check",
+    "title": "Binary Deal-Check / Stage-Exit Checklist",
+    "dek": "Yes/no inspection for every stage. Keep deals on track; exit when the signal is clear.",
+    "seat": "Sales VP",
+    "category": "pipeline",
+    "monday_motion": "Pull open deals in CRM; run binary check on each stage; flag exits and ping manager if a pattern emerges.",
+    "body_markdown": "# Binary Deal‑Check / Stage‑Exit Checklist  \n**Yes/no inspection for every stage. Keep deals on track. Exit when the signal is clear.**\n\n---\n\n## Who it's for  \nTiny enablement teams (1–3 people) running pipeline hygiene and stage gating in pre-IPO orgs.\n\n---\n\n## Artifact Body  \n\n| Stage | Key Criteria | ✅ Yes | ❌ No | Notes |\n|-------|--------------|--------|-------|-------|\n| **Prospecting** | ICP match confirmed | ☐ | ☐ | |\n| | Outreach cadence active | ☐ | ☐ | |\n| | Contact made | ☐ | ☐ | |\n| **Qualification** | Budget exists | ☐ | ☐ | |\n| | Authority mapped | ☐ | ☐ | |\n| | Need validated | ☐ | ☐ | |\n| **Discovery** | Pain articulated by buyer | ☐ | ☐ | |\n| | Solution fit discussed | ☐ | ☐ | |\n| | Timeline set | ☐ | ☐ | |\n| **Proposal** | Proposal delivered | ☐ | ☐ | |\n| | Value confirmed by champion | ☐ | ☐ | |\n| | Pricing agreed in principle | ☐ | ☐ | |\n| **Negotiation** | Objections resolved | ☐ | ☐ | |\n| | Legal/procurement engaged | ☐ | ☐ | |\n| | Close date committed | ☐ | ☐ | |\n| **Closed** | Contract signed | ☐ | ☐ | |\n| | Onboarding scheduled | ☐ | ☐ | |\n\n### Stage‑Exit Rule  \n- **Any ❌ No = flag for exit.**  \n- Log reason in Notes. Move deal to *Exit Queue* for manager review.\n\n### Daily Ritual (5 min)  \n1. **Scan** for ❌ No marks.  \n2. **Flag** deal in CRM.  \n3. **Log** exit reason or next step in Notes.\n\n---\n\n## Monday Motion (3 Steps)  \n\n1. **Pull** open deals in CRM.  \n2. **Run** binary check on each stage.  \n3. **Flag** exits; ping manager if pattern emerges.\n\n---\n\n## Related CTAs  \n\n- [/assessment](/assessment)  \n- [/start-here](/start-here)  \n- [/enabling-leaders/enabling-managers](/enabling-leaders/enabling-managers)  \n- [/enabling-leaders/enablement-operating-model](/enabling-leaders/enablement-operating-model)  \n- [/build-the-system](/build-the-system)  \n\n---\n\n> **Disclosure**: Stage labels and criteria are EXAMPLE configurations—adapt to your sales motion and ICP.\n",
+    "related_ctas": [
+      "/assessment",
+      "/start-here",
+      "/enabling-leaders/enabling-managers",
+      "/enabling-leaders/enablement-operating-model",
+      "/build-the-system"
+    ],
+    "updated_at": "2026-08-12T00:00:00Z",
+    "source": "claude-polish"
+  },
+  {
+    "id": "ai-hours-reinvestment",
+    "title": "CRO AI-Savings Reinvestment Scorecard",
+    "dek": "Prove AI bought you time, then prove you spent it on coaching, deals, and selling.",
+    "seat": "CRO",
+    "category": "cadence",
+    "monday_motion": "Pull last week's AI-saved hours; log reinvested hours on the scorecard; hold or approve seat purchase by gap.",
+    "body_markdown": "# CRO AI‑Savings Reinvestment Scorecard\n\n**Prove AI bought you time, then prove you spent it on coaching, deals, and selling.**\n\n---\n\n## Who it's for\n\nCROs, Sales Ops, Enablement Leads running 1–3 person teams who want a single-page checklist to turn saved hours into revenue motion — and catch seat‑creep before it starts.\n\n---\n\n## The Scorecard\n\nCopy this table. Fill it weekly. Mark the gap, assign the owner, set the date.\n\n| **Category**       | **AI‑Saved Hours** | **Reinvested Hours** | **Gap** | **Action**                          | **Owner** | **Due** |\n|--------------------|--------------------|----------------------|---------|-------------------------------------|-----------|---------|\n| Coaching           |                    |                      |         |                                     |           |         |\n| Deal Inspection    |                    |                      |         |                                     |           |         |\n| Selling Block      |                    |                      |         |                                     |           |         |\n| **Total**          |                    |                      |         |                                     |           |         |\n\n**How to fill it:**  \n- **AI‑Saved Hours:** Pull from your AI tool's dashboard or ask your ops lead for last week's aggregate.  \n- **Reinvested Hours:** Calendar proof — actual hours managers logged in coaching sessions, deal reviews, or selling time.  \n- **Gap:** Subtract reinvested from saved. Positive gap = time leaked.  \n- **Action:** \"Schedule 2 coaching slots\" or \"Block Friday afternoon for deals.\"  \n- **Owner / Due:** Name + next Monday.\n\n**EXAMPLE**: If AI saved 12 hours (EXAMPLE) and you logged 7 coaching hours, gap = 5 hours. Action: \"Add 5 hours of deal‑review blocks by Friday.\" Owner: Sales Ops. Due: 2025‑05‑09.\n\n---\n\n## Monday Motion (3 Steps)\n\n1. **Pull last week's AI‑saved hours** — export or screengrab from your tool.  \n2. **Log reinvested hours** — check calendars, coaching notes, deal‑review agendas. Fill the table.  \n3. **Decide on seat purchase**:  \n   - **If total gap > 10 hours (EXAMPLE):** Hold the seat request. Fix the leak first.  \n   - **If gap ≤ 3 hours (EXAMPLE) for two weeks straight:** Approve the seat.\n\n---\n\n## Related CTAs\n\n- [/assessment](/assessment) — Baseline your current AI + enablement operating model  \n- [/start-here](/start-here) — Framework overview  \n- [/enabling-leaders/enabling-managers](/enabling-leaders/enabling-managers) — Manager coaching structure  \n- [/enabling-leaders/enablement-operating-model](/enabling-leaders/enablement-operating-model) — Weekly rhythm that makes reinvestment automatic  \n- [/build-the-system](/build-the-system) — Turn this scorecard into a repeatable operating motion\n\n---\n\n**Disclosure:** All hours, gaps, and percentages in this guide are illustrative (EXAMPLE) and not based on third‑party research. Use your own calendar and AI‑tool data to fill the scorecard.\n",
+    "related_ctas": [
+      "/assessment",
+      "/start-here",
+      "/enabling-leaders/enabling-managers",
+      "/enabling-leaders/enablement-operating-model",
+      "/build-the-system"
+    ],
+    "updated_at": "2026-08-12T00:00:00Z",
+    "source": "claude-polish"
+  },
+  {
+    "id": "manager-coaching-ritual",
+    "title": "Monday Manager Coaching Ritual Card",
+    "dek": "3 coaching hours/month/rep, guaranteed. Free admin calendar + gated AI = no schedule leaks.",
+    "seat": "VP Enablement",
+    "category": "cadence",
+    "monday_motion": "Build Coaching Calendar board with slots; turn on gated AI (max 3/manager/month); book and hold first coaching window.",
+    "body_markdown": "# Monday Manager Coaching Ritual Card\n\n**3 coaching hours/month/rep, guaranteed. Free admin calendar + gated AI = no schedule leaks.**\n\n## Who it's for\n**Pre-IPO enablement teams (1–3 people) supporting 5–15 frontline managers.**  \nIf you own coaching cadence but don't control manager calendars, this is your forcing function.\n\n---\n\n## Ritual Checklist\n\n| # | Task | Owner | Frequency | Criteria (Y/N) |\n|---|------|-------|-----------|----------------|\n| 1 | Create \"Coaching Calendar\" board in Monday.com | Admin | Once/quarter | Board exists; slots visible to managers |\n| 2 | Configure slot gate: max 3 bookings/manager/month | Admin | Once/quarter | AI rejects 4th booking; error message references policy |\n| 3 | Block 3 × 1‑hour windows/month in manager calendar | Manager | Monthly | No conflicting meetings; slots marked \"Coaching — Hold\" |\n| 4 | Run 1:1 coaching session (video or in‑person) | Manager | Monthly | Session held; notes logged in CRM/LMS |\n\n---\n\n## Monday Motion (3 steps)\n\n1. **Admin**: Build \"Coaching Calendar\" board → add slots for current quarter → label each slot with manager name + rep territory.\n2. **Admin**: Turn on gated AI rule → set limit to 3 slots/manager/month → test by attempting 4th booking (should fail).\n3. **Manager**: Book first coaching window this week → hold the session → log outcome in your tracking system.\n\n---\n\n## Related Paths\n\n- [Assessment](/assessment) — Baseline your current coaching hours/month before installing the ritual  \n- [Enabling Leaders – Managers](/enabling-leaders/enabling-managers) — What to *say* in those 3 hours  \n- [Enabling Leaders – Operating Model](/enabling-leaders/enablement-operating-model) — Where coaching fits in your weekly rhythm  \n- [Build the System](/build-the-system) — Scale this ritual across 10+ managers  \n\n---\n\n**Disclosure:**  \n**EXAMPLE** — \"3 coaching hours/month\" is a operator heuristic, not peer‑reviewed research. Adjust to your deal cycle and ramp curve.\n",
+    "related_ctas": [
+      "/assessment",
+      "/enabling-leaders/enabling-managers",
+      "/enabling-leaders/enablement-operating-model",
+      "/build-the-system"
+    ],
+    "updated_at": "2026-08-12T00:00:00Z",
+    "source": "claude-polish"
+  },
+  {
+    "id": "maturity-one-pager",
+    "title": "Enablement Maturity Roadmap (1–5 for Solo Leads)",
+    "dek": "A checklist to see where you are and what's next—no corporate fluff, just what moves the needle as a team of one.",
+    "seat": "VP Enablement",
+    "category": "strategy",
+    "monday_motion": "Confirm your maturity level; block 90 min to ship one Quick Win; Friday close—did it land?",
+    "body_markdown": "# Enablement Maturity Roadmap  \n**1–5 Levels for Solo Leads**\n\nA checklist to see where you are and what's next. No corporate fluff — just what moves the needle when you're a team of one.\n\n---\n\n## Who it's for  \nSolo Enablement Leads at pre-IPO companies (1–3 person enablement teams) who need a clear path to scale without adding headcount first.\n\n---\n\n## Maturity Levels Overview  \n\n| Level | What You're Building | Artifacts That Prove It | Quick Win | Gate to Next Level |\n|-------|---------------------|------------------------|-----------|-------------------|\n| **1 – Foundations** | Core onboarding & first playbook | • 30-day onboarding checklist<br>• Rep certification criteria (role-specific)<br>• First customer pitch template | Record 1 demo walkthrough that new hires can watch async | Manager can certify new reps in < 5 days (EXAMPLE) |\n| **2 – Process & Tools** | Content library & performance visibility | • Searchable Notion/Guru library<br>• Weekly pipeline dashboard (by stage)<br>• Sales stage exit criteria | Tag & organize 10 most-used assets by deal stage | Sales can find the right asset in < 2 min (EXAMPLE) |\n| **3 – Scale & Automation** | Self-serve learning paths & triggers | • Role-based onboarding sequences<br>• Auto-reminders for stalled deals<br>• Manager coaching checklist | Launch 1 Slack workflow that nudges reps when deals age > 14 days (EXAMPLE) | Onboarding runs without you scheduling every session |\n| **4 – Data-Driven Refinement** | Leading indicators & iteration cycles | • Quarterly enablement scorecard (% certified, time-to-first-deal)<br>• Win/loss tied to training completion<br>• Content usage heatmap | Publish 1 scorecard that ties training to quota attainment | Leadership references your scorecard in QBRs |\n| **5 – Continuous Culture** | Peer learning & manager ownership | • Monthly peer case-study sessions<br>• Manager-led role-play cadence<br>• Enablement council (cross-functional) | Launch 1 Slack channel where reps share \"how I closed X\" stories | Managers run >50% of skill sessions (EXAMPLE); you orchestrate, not deliver |\n\n> **NOTE:** Timeframes, percentages, and thresholds (EXAMPLE) are illustrative. Calibrate to your ICP and sales cycle.\n\n---\n\n## Quick-Start Checklist (Ready to Copy)\n\n**Monday morning, 15 minutes:**\n\n- [ ] Mark the level that matches your current state (be honest — partial counts as the lower level)  \n- [ ] Pick *one* Quick Win from your current level  \n- [ ] Block 90 min this week to ship it  \n- [ ] Add a Slack reminder to check next Monday: \"Did the Quick Win land? What broke?\"\n\n**If you're between levels:** default to the lower one. Better to over-deliver on foundations than fake scale.\n\n---\n\n## Monday Motion (3 Steps)\n\n1. **Morning audit** – Open the roadmap. Confirm your level. Write down the one Quick Win you're shipping this week.  \n2. **Mid-week execution block** – 90 min, no Slack. Ship the Quick Win or get it 80% done.  \n3. **Friday close** – Did it land? Update the roadmap. If blocked, note why and pick a smaller Quick Win for next Monday.\n\n---\n\n## Related CTAs\n\n- [/assessment](/assessment) – Diagnose your current level in 10 min  \n- [/start-here](/start-here) – New to Frontier? Start here  \n- [/enabling-leaders/enabling-managers](/enabling-leaders/enabling-managers) – Get managers running coaching (Level 4–5)  \n- [/enabling-leaders/enablement-operating-model](/enabling-leaders/enablement-operating-model) – Map your operating rhythm  \n- [/build-the-system](/build-the-system) – Level 2–3 playbook for process & tools  \n\n---\n\n**Disclosure:** This roadmap reflects common patterns we see in 10–200 person sales orgs. Your mileage will vary — use it as a starting point, not gospel. If a Quick Win doesn't fit your context, skip it and pick the next one that does.\n",
+    "related_ctas": [
+      "/assessment",
+      "/start-here",
+      "/enabling-leaders/enabling-managers",
+      "/enabling-leaders/enablement-operating-model",
+      "/build-the-system"
+    ],
+    "updated_at": "2026-08-12T00:00:00Z",
+    "source": "claude-polish"
+  },
+  {
+    "id": "agent-policy-catalog",
+    "title": "Starter Agent Policy Catalog",
+    "dek": "Know exactly which agents write to the CRM, when a human must review, and how to hand the policy off intact.",
+    "seat": "RevOps",
+    "category": "governance",
+    "monday_motion": "Audit YAML against CRM field names; flag high-fire human-gate policies; commit updates and tag ops.",
+    "body_markdown": "# Starter Agent Policy Catalog\n\n**Who it's for**  \nRevenue operator or enablement manager at a 1–3 person pre‑IPO team who needs to know *exactly* which agents write to the CRM, when a human must review, and how to hand the policy off intact.\n\n---\n\n## The catalog\n\n| Use Case | Data Source | CRM Truth | Signal Feed | Human Gate? | Write Rule |\n|----------|-------------|-----------|-------------|-------------|------------|\n| Lead capture | Form POST | Lead record | Scoring model | No | `lead.owner = agent`<br>`lead.status = \"New\"` |\n| Opportunity qual | Opp form | Opp record | Stage history | **Yes** | `if stage == \"Qualified\"`<br>`  lead.status = \"Qualified\"` |\n| Deal close | Close form | Deal record | Won value | **Yes** | `if deal.value > 0`<br>`  opp.status = \"Closed Won\"` |\n| Account refresh | Account sync | Account record | Health snapshot | No | `account.owner = agent`<br>`account.status = \"Active\"` |\n\n> **Mark each yes/no now:**  \n> 1. Does your CRM schema match the field names in column six?  \n> 2. Do you have write credentials scoped to *only* those fields?  \n> 3. Can a manager approve the human‑gate rows in Slack in under two minutes?  \n> 4. Is the YAML below committed to version control?  \n> 5. Does one person own breaking changes to this catalog?  \n> 6. Can the next ops hire read this table and ship a policy update on day one?\n\n---\n\n## Sample YAML\n\n```yaml\n# agent_policies.yml – EXAMPLE VALUES ONLY\npolicies:\n  - name: lead_capture\n    data_source: lead_form\n    crm_truth: lead_db\n    signal_feed: lead_scoring\n    human_gate: false\n    write_rules:\n      - \"lead.owner = agent\"\n      - \"lead.status = 'New'\"\n\n  - name: opportunity_qual\n    data_source: opp_form\n    crm_truth: opp_db\n    signal_feed: stage_history\n    human_gate: true\n    write_rules:\n      - \"if (opp.stage == 'Qualified') { lead.status = 'Qualified' }\"\n\n  - name: deal_close\n    data_source: close_form\n    crm_truth: deal_db\n    signal_feed: won_value\n    human_gate: true\n    write_rules:\n      - \"if (deal.value > 0) { opp.status = 'Closed Won' }\"\n```\n\n*Numbers, field names, and threshold logic are EXAMPLE placeholders.*\n\n---\n\n## Monday Motion\n\n1. **Audit** – Open the YAML; confirm each policy still matches production CRM field names.  \n2. **Flag** – If a human‑gate policy fired more than *EXAMPLE: 10 times* last week, add a pre‑filter rule.  \n3. **Commit** – Push the updated YAML and tag the ops channel so the next sprint inherits clean policy.\n\n---\n\n## Related\n\n- [Assessment](/assessment)  \n- [Start Here](/start-here)  \n- [Enabling Managers](/enabling-leaders/enabling-managers)  \n- [Enablement Operating Model](/enabling-leaders/enablement-operating-model)  \n- [Build the System](/build-the-system)\n\n---\n\n**Disclosure**  \nThis catalog is a starting template. Validate write‑rule syntax against your CRM's API documentation before committing to production. Always test policy changes in a sandbox instance first.\n",
+    "related_ctas": [
+      "/assessment",
+      "/start-here",
+      "/enabling-leaders/enabling-managers",
+      "/enabling-leaders/enablement-operating-model",
+      "/build-the-system"
+    ],
+    "updated_at": "2026-08-12T00:00:00Z",
+    "source": "claude-polish"
+  },
+  {
+    "id": "challenge-this-page",
+    "title": "Correction Loop Ritual — Challenge This Page",
+    "dek": "Keep field-guide pages fresh and accurate with a 15-minute weekly flag → verify → patch loop.",
+    "seat": "VP Enablement",
+    "category": "governance",
+    "monday_motion": "Pull the Stale Claim list; verify each item against the latest source; patch the page and close the card.",
+    "body_markdown": "# Correction Loop Ritual  \n**Challenge This Page** – Keep your field‑guide pages fresh and accurate.  \nA quick, weekly ritual for 1‑3 enablement teammates.\n\n---\n\n## Who it’s for  \n- Enablement Leads  \n- Enablement Managers  \n- Enablement Ops\n\n---\n\n## Ritual Checklist\n\n| Step | Action | Owner | Frequency | Notes |\n|------|--------|-------|-----------|-------|\n| **1️⃣ Flag** | Scan the page for stale claims, broken links, or outdated data. | 1–3 team members | Weekly | Use the “Stale Claim” flag in the page’s comment section. |\n| **2️⃣ Verify** | Cross‑check flagged items against the latest source (product docs, data dashboards, or stakeholder input). | 1–3 team members | Weekly | If you’re unsure, ping the relevant product owner. |\n| **3️⃣ Patch** | Update the content, replace broken links, or add new data. Commit the change and add a brief note in the revision history. | 1–3 team members | Weekly | Keep the patch concise—focus on the specific claim, not the whole page. |\n| **4️⃣ Review** | Quick peer‑review of the patch to catch typos or formatting drift. | 1–3 team members | Weekly | One person does the review; the other two approve. |\n\n> **Operator Edge Tip:**  \n> Keep the ritual lightweight—no more than 15 minutes per page. Use a shared spreadsheet or a simple Kanban board to track flagged pages.\n\n---\n\n## Monday Motion (≤3 steps)\n\n1. **Pull the “Stale Claim” list** from the shared board.  \n2. **Verify** each item against the latest source.  \n3. **Patch** the page and close the card.\n\n---\n\n## Related CTAs\n\n- [/assessment](https://example.com/assessment)  \n- [/start-here](https://example.com/start-here)  \n- [/enabling-leaders/enabling-managers](https://example.com/enabling-leaders/enabling-managers)  \n- [/enabling-leaders/enablement-operating-model](https://example.com/enabling-leaders/enablement-operating-model)  \n- [/build-the-system](https://example.com/build-the-system)\n\n---\n",
+    "related_ctas": [
+      "/assessment",
+      "/start-here",
+      "/enabling-managers",
+      "/enablement-operating-model",
+      "/build-the-system"
+    ],
+    "updated_at": "2026-08-12T00:00:00Z",
+    "source": "fireworks-pack2"
+  },
+  {
+    "id": "seat-proof-cards",
+    "title": "4 Seat-Aware Proof Cards",
+    "dek": "Quick proof frameworks for Builders, CROs, Sales VPs, and Boards—what to show, what not to, and the Monday ask.",
+    "seat": "CRO",
+    "category": "strategy",
+    "monday_motion": "Pick the seat card; answer the Monday ask with one inspectable metric; share the result and next action.",
+    "body_markdown": "# Frontier Field Guide  \n**4 Seat‑Aware Proof Cards**  \nQuick, actionable proof frameworks for Builders, CROs, Sales VPs, and Boards. One page per seat, ready to copy.\n\n---\n\n## Builder  \n**Who it’s for:** Founder / Product Lead  \n\n| What “proof” means | Inspectable signals | What NOT to show |\n|---------------------|---------------------|------------------|\n| Show the product solves a real problem and has traction | 1️⃣ User adoption rate<br>2️⃣ Feature‑usage depth<br>3️⃣ Customer testimonials<br>4️⃣ Revenue growth<br>5️⃣ Road‑map alignment | 1️⃣ Buzzwords<br>2️⃣ Unverified claims<br>3️⃣ Internal‑only metrics |\n\n**Monday ask**  \n> “What single metric proves our product is indispensable to users?”\n\n**Monday motion** (≤3 steps)  \n1. Identify the key metric.  \n2. Pull the latest data.  \n3. Share the result with the team.\n\n---\n\n## CRO  \n**Who it’s for:** Chief Revenue Officer  \n\n| What “proof” means | Inspectable signals | What NOT to show |\n|---------------------|---------------------|------------------|\n| Evidence that the revenue pipeline is healthy and scalable | 1️⃣ Pipeline velocity<br>2️⃣ Win rate<br>3️⃣ Avg. deal size<br>4️⃣ Forecast accuracy<br>5️⃣ Churn rate | 1️⃣ Unverified pipeline numbers<br>2️⃣ Anecdotal win stories<br>3️⃣ Internal forecasts only |\n\n**Monday ask**  \n> “Which pipeline metric is lagging behind target and why?”\n\n**Monday motion** (≤3 steps)  \n1. Pull the latest pipeline report.  \n2. Highlight the gaps.  \n3. Propose corrective action.\n\n---\n\n## Sales VP  \n**Who it’s for:** VP of Sales  \n\n| What “proof” means | Inspectable signals | What NOT to show |\n|---------------------|---------------------|------------------|\n| Evidence that the sales team is executing and closing | 1️⃣ Quota attainment<br>2️⃣ Lead‑to‑close ratio<br>3️⃣ Sales‑cycle length<br>4️⃣ Activity metrics (calls, demos)<br>5️⃣ Pipeline health | 1️⃣ Raw activity without context<br>2️⃣ Unverified leads<br>3️⃣ Anecdotal success stories |\n\n**Monday ask**  \n> “What is our top blocker preventing quota attainment?”\n\n**Monday motion** (≤3 steps)  \n1. Review the quota dashboard.  \n2. Identify blockers.  \n3. Assign owners.\n\n---\n\n## Board  \n**Who it’s for:** Board of Directors  \n\n| What “proof” means | Inspectable signals | What NOT to show |\n|---------------------|---------------------|------------------|\n| Evidence that the company is on track for growth and risk is managed | 1️⃣ Cash runway & burn<br>2️⃣ Market traction (ARR, growth)<br>3️⃣ Product‑market fit evidence<br>4️⃣ Governance & compliance<br>5️⃣ Risk‑mitigation plans | 1️⃣ Internal memos<br>2️⃣ Unverified forecasts<br>3️⃣ Incomplete risk assessments |\n\n**Monday ask**  \n> “What is the biggest risk to our next funding round?”\n\n**Monday motion** (≤3 steps)  \n1. Summarize the risk.  \n2. Outline mitigation.  \n3. Present to the board.\n\n---\n\n### Next Steps  \n- [Assessment](/assessment)  \n- [Start Here](/start-here)  \n- [Enablement for Leaders](/enabling-leaders/enabling-managers)  \n- [Enablement Operating Model](/enabling-leaders/enablement-operating-model)  \n- [Build the System](/build-the-system)\n",
+    "related_ctas": [
+      "/assessment",
+      "/start-here",
+      "/enabling-leaders/enabling-managers",
+      "/enabling-leaders/enablement-operating-model",
+      "/build-the-system"
+    ],
+    "updated_at": "2026-08-12T00:00:00Z",
+    "source": "fireworks-pack2"
+  },
+  {
+    "id": "changelog-template",
+    "title": "What Got Sharper Changelog Template",
+    "dek": "Capture the sharpest changes, why they mattered for the field, and what to stop doing—ready to publish.",
+    "seat": "VP Enablement",
+    "category": "cadence",
+    "monday_motion": "Pull the changelog template; draft last week's sharpenings; publish and tag stakeholders.",
+    "body_markdown": "# Living Blueprint  \n**What Got Sharper Changelog Template**  \n*Capture the sharpest changes, why they mattered, and what to stop doing—ready for instant publish.*\n\n---\n\n## Who it’s for  \n- Product Ops & Enablement Leads  \n- Growth & Ops Managers  \n- Anyone who needs a concise, actionable changelog\n\n---\n\n## Artifact Body – Copy‑Ready Template\n\n| Date | What Got Sharper | Why It Mattered for the Field | What to Stop Doing | Source Claim Link |\n|------|------------------|------------------------------|--------------------|-------------------|\n| **YYYY‑MM‑DD** | *Describe the sharpened feature, process, or insight* | *Explain the impact on users, revenue, or efficiency* | *List one or two practices that should be abandoned* | *URL to supporting data or documentation* |\n\n> **Tip:** Keep each entry to 1‑2 sentences. Focus on the *action* and *outcome*.\n\n---\n\n## Ritual – Weekly Workflow\n\n1. **Friday** – Gather the latest sharpenings from your team.  \n2. **Friday** – Fill out the table above and review for clarity.  \n3. **Friday** – Publish to the shared channel or newsletter.\n\n---\n\n## Monday Motion (≤ 3 steps)\n\n1. Pull the template into your notes.  \n2. Draft the new sharpenings from last week’s work.  \n3. Publish and tag the relevant stakeholders.\n\n---\n\n## Related CTAs\n\n- [Assessment](/assessment)  \n- [Start Here](/start-here)  \n- [Enabling Leaders / Enabling Managers](/enabling-leaders/enabling-managers)  \n- [Enabling Leaders / Enablement Operating Model](/enabling-leaders/enablement-operating-model)  \n- [Build the System](/build-the-system)\n\n---\n\n> **Disclosure:** No numbers are invented in this template. All placeholders are for your own data.\n",
+    "related_ctas": [
+      "/assessment",
+      "/start-here",
+      "/enabling-leaders/enabling-managers",
+      "/enabling-leaders/enablement-operating-model",
+      "/build-the-system"
+    ],
+    "updated_at": "2026-08-12T00:00:00Z",
+    "source": "fireworks-pack2"
+  },
+  {
+    "id": "source-quote-card",
+    "title": "Quotable Source Card",
+    "dek": "Capture, verify, and share evidence in one place—claim, quote, source, seat, why it matters.",
+    "seat": "VP Enablement",
+    "category": "governance",
+    "monday_motion": "Spot an insight; fill the source card in the shared repo; verify with the stakeholder.",
+    "body_markdown": "# Quotable Source Card  \n**Capture, verify, and share insights in one place.**  \nUse this quick template to surface evidence that drives decisions—no fluff, just facts.\n\n---\n\n## Who it’s for  \n- Product & Growth Leads  \n- Enablement & Ops teams  \n- Anyone who needs a single source of truth for insights\n\n---\n\n## Artifact Body – Ready to Copy  \n\n| Claim | Quote | Source URL | Seat | Why it Matters | Verified? |\n|-------|-------|------------|------|----------------|-----------|\n| `INSERT CLAIM` | `INSERT QUOTE` | `https://example.com` | `INSERT SEAT` | `INSERT WHY IT MATTERS` | `Yes / No` |\n\n**Checklist**  \n- [ ] Capture the claim in one sentence.  \n- [ ] Pull the exact quote that supports the claim.  \n- [ ] Add the URL (or file path) to the source.  \n- [ ] Tag the seat (role that owns the insight).  \n- [ ] Explain why the insight matters in 1‑2 lines.  \n- [ ] Mark as *Verified* once the source is confirmed.\n\n---\n\n## Monday Motion (≤ 3 steps)\n\n1. **Spot** an insight during a meeting or review.  \n2. **Fill** the card in the shared repo.  \n3. **Verify** the source with the relevant stakeholder.\n\n---\n\n## Example Cards\n\n### 1. Verified Insight  \n| Claim | Quote | Source URL | Seat | Why it Matters | Verified? |\n|-------|-------|------------|------|----------------|-----------|\n| User churn drops **15 %** after onboarding improvement. | “Since we added the step‑by‑step guide, churn fell from 12 % to 9 %.” | https://example.com/churn-report | Growth Lead | Shows ROI of onboarding. | Yes |\n\n*(Numbers are **EXAMPLE**; not from research.)*\n\n### 2. Needs Verification  \n| Claim | Quote | Source URL | Seat | Why it Matters | Verified? |\n|-------|-------|------------|------|----------------|-----------|\n| Revenue per user increased **20 %** after pricing tweak. | “Revenue per user rose from $50 to $60 after the new tier.” | https://example.com/pricing-impact | Product Manager | Validates pricing strategy. | No |\n\n*(Numbers are **EXAMPLE**; not from research.)*\n\n---\n\n### 3. Blank Template  \n| Claim | Quote | Source URL | Seat | Why it Matters | Verified? |\n|-------|-------|------------|------|----------------|-----------|\n| `INSERT CLAIM` | `INSERT QUOTE` | `https://example.com` | `INSERT SEAT` | `INSERT WHY IT MATTERS` | `Yes / No` |\n\n---\n\n## Related CTAs  \n\n- [/assessment](https://frontier.com/assessment)  \n- [/start-here](https://frontier.com/start-here)  \n- [/enabling-leaders/enabling-managers](https://frontier.com/enabling-leaders/enabling-managers)  \n- [/enabling-leaders/enablement-operating-model](https://frontier.com/enabling-leaders/enablement-operating-model)  \n- [/build-the-system](https://frontier.com/build-the-system)  \n\n---\n",
+    "related_ctas": [
+      "/assessment",
+      "/start-here",
+      "/enabling-managers",
+      "/enablement-operating-model",
+      "/build-the-system"
+    ],
+    "updated_at": "2026-08-12T00:00:00Z",
+    "source": "fireworks-pack2"
+  },
+  {
+    "id": "onboarding-30-60-90",
+    "title": "30-60-90 Enablement Lead Playbook",
+    "dek": "Operating-system-first roadmap for solo enablement leaders in pre-IPO teams. Build systems, not content.",
+    "seat": "VP Enablement",
+    "category": "strategy",
+    "monday_motion": "Review the system backlog; lock top 3 by impact/effort into the calendar; sync owners in a 15-min kickoff.",
+    "body_markdown": "# 30‑60‑90 Enablement Lead Playbook  \n**A concise, operating‑system‑first roadmap for solo enablement leaders in pre‑IPO teams. Build systems, not content, and protect your calendar.**\n\n---\n\n## Who it’s for  \n**Solo Enablement Lead** at a pre‑IPO, tiny‑team company (1‑3 people).  \nYou’re the only person pulling the enablement engine together—no content factory, just a lean operating system.\n\n---\n\n## 30‑60‑90 Day Field Guide\n\n| Phase | Objectives | Outcomes | Calendar Protections | What to Refuse | Key Actions |\n|-------|------------|----------|----------------------|----------------|-------------|\n| **30 days** | 1. Map the current state<br>2. Identify quick‑wins | • Baseline inventory of tools, docs, and gaps<br>• 3 quick‑win system tweaks | • 1 h “Discovery” block every Monday<br>• 30 min “Status” check‑in with CEO | • “Content‑heavy” workshops<br>• Unplanned ad‑hoc requests | • Conduct a 1‑hour “State‑of‑Enablement” walk‑through with each team member<br>• Create a shared “Enablement Map” (tool‑list + workflow diagram)<br>• Draft a 30‑day “System Sprint” backlog |\n| **60 days** | 1. Build core operating system<br>2. Automate repetitive tasks | • 2 core systems in place (e.g., onboarding pipeline, knowledge‑base workflow)<br>• 20 % reduction in manual hand‑offs | • 2 h “System Design” block every Tuesday<br>• 15 min “Refine” review each Friday | • “Show‑and‑tell” demos without impact<br>• “All‑hands” meetings that don’t move the needle | • Design and launch the onboarding pipeline (templates, checklists, automation triggers)<br>• Implement a knowledge‑base workflow (tagging, search, review cadence)<br>• Set up a weekly “System Health” dashboard |\n| **90 days** | 1. Scale systems<br>2. Embed culture | • Systems adopted by 100 % of team<br>• Enablement metrics (time‑to‑competence, task‑completion) in place | • 1 h “Scale” block every Thursday<br>• 30 min “Celebrate” session each month | • “Feature‑first” mindset<br>• “One‑off” fixes that break the system | • Roll out system‑wide adoption training<br>• Capture and iterate on feedback loop (surveys, metrics)<br>• Publish a “Enablement Playbook” (living doc) for future hires |\n\n> **Calendar Protection Principle**  \n> Every week, reserve a *non‑negotiable* block for system work. Treat it like a board meeting—no one can book over it unless it’s a system‑critical emergency.\n\n---\n\n## Monday Motion (≤ 3 steps)\n\n1. **Review the backlog** – Open the system backlog, highlight top 3 items that will move the operating system forward.  \n2. **Prioritize** – Rank them by impact vs. effort; lock the top 3 into the week’s calendar.  \n3. **Sync** – Send a 15‑min “Kick‑off” to the relevant stakeholder (product, engineering, HR) to confirm scope and ownership.\n\n---\n\n## Related CTAs\n\n- [/assessment](https://frontier.com/assessment) – Quick self‑check of your enablement maturity.  \n- [/start-here](https://frontier.com/start-here) – Jump‑start your enablement journey.  \n- [/enabling-leaders/enabling-managers](https://frontier.com/enabling-leaders/enabling-managers) – Resources for leaders and managers.  \n- [/enabling-leaders/enablement-operating-model](https://frontier.com/enabling-leaders/enablement-operating-model) – Deep dive into operating‑model design.  \n- [/build-the-system](https://frontier.com/build-the-system) – Templates and tools to build your system.\n\n---\n\n**Note:** All numbers (30/60/90 days, 20 % reduction, etc.) are illustrative and not derived from proprietary research. They serve as a practical framework for your own context.\n",
+    "related_ctas": [
+      "/assessment",
+      "/start-here",
+      "/enabling-managers",
+      "/enablement-operating-model",
+      "/build-the-system"
+    ],
+    "updated_at": "2026-08-12T00:00:00Z",
+    "source": "fireworks-pack2"
+  }
+]
