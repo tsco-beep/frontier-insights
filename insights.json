@@ -1,6 +1,57 @@
 [
   {
     "category": "Data",
+    "title": "The enablement KPI is adherence \u2014 not another AI seat.",
+    "dek": "Supered\u2019s State of Sales Enablement 2026 (n=198) finds 89% of teams define a sales process but only 36% see reps follow it \u2014 a 53-point Enablement Execution Gap. Highest-frequency deal inspection hits quota at 6.3\u00d7 rare inspection; workflow-embedded guidance associates with 49% high-quota attainment vs 15% in docs/LMS. Disclosure: Supered-sponsored industry research; directional, cite-with-attribution; not a product endorsement. Binary stage-exit checks in CRM, a manager inspection cadence you can staff, then one propose-only copilot. KPI = adherence \u2014 not AI seats.",
+    "date": "2026-08",
+    "readTime": "4 min",
+    "sources": [
+      {
+        "label": "Supered \u2014 State of Sales Enablement 2026",
+        "url": "https://www.supered.io/state-of-sales-enablement/"
+      },
+      {
+        "label": "Supered \u2014 What Is the Sales Execution Gap?",
+        "url": "https://www.supered.io/blog/what-is-the-sales-execution-gap/"
+      }
+    ]
+  },
+  {
+    "category": "Data",
+    "title": "AI saved ~5 hours. Most teams spent none of it on selling.",
+    "dek": "Gartner\u2019s May 19, 2026 CSO survey (n=210) finds AI saves sellers 4.8 hours/week \u2014 yet 72% of sales orgs report low reinvestment of that time into high-value selling. Orgs that reinvest moderate-to-large AI time savings are 2.2\u00d7 more likely to exceed customer-growth goals and 3.1\u00d7 on lead-to-opportunity conversion. Disclosure: Gartner conference press materials; not Frontier-commissioned; no vendor ranking. Name the reinvestment target (coaching hours, deal inspection, or a selling block) before the next seat; human accept on every CRM write.",
+    "date": "2026-08",
+    "readTime": "4 min",
+    "sources": [
+      {
+        "label": "Gartner / Business Wire \u2014 AI saves sellers nearly five hours/week; 72% fail to reinvest (May 19, 2026)",
+        "url": "https://www.businesswire.com/news/home/20260519504410/en/"
+      },
+      {
+        "label": "Gartner Newsroom \u2014 AI time savings and reinvestment (May 19, 2026)",
+        "url": "https://www.gartner.com/en/newsroom/press-releases/2026-05-19-gartner-survey-finds-ai-saves-sellers-nearly-five-hours-per-week-yet-seventy-two-percent-of-sales-organizations-fail-to-reinvest-time-in-high-value-activities"
+      },
+      {
+        "label": "Gartner Newsroom \u2014 AI next-best-action and commercial growth (May 20, 2026)",
+        "url": "https://www.gartner.com/en/newsroom/press-releases/2026-05-20-gartner-survey-finds-sales-organizations-that-provide-ai-enabled-next-best-actions-are-two-point-six-times-more-likely-to-achieve-commercial-growth"
+      }
+    ]
+  },
+  {
+    "category": "Field Note",
+    "title": "Free the manager\u2019s calendar. Don\u2019t replace the coaching conversation.",
+    "dek": "SBI Growth\u2019s Jul 22, 2026 time study of 500+ frontline sales managers finds roughly half a manager\u2019s week goes to admin; a client example shifts ~4 hours/week to AI immediately. Managers who coach \u22653 hours/month/team hit 107% of team quota vs 82% with no coaching (separate SBI coaching research cited in-piece). Disclosure: SBI + Gong co-hosted dinner context \u2014 disclose both; not a product endorsement. Distinct from before/during/after coaching-product arcs. One gated call\u2192CRM draft assist, force recovered hours onto a named coaching ritual, leave the 1:1 human.",
+    "date": "2026-08",
+    "readTime": "3 min",
+    "sources": [
+      {
+        "label": "SBI Growth \u2014 AI Frees Manager Time \u2014 Coaching Still Takes a Human (Jul 22, 2026)",
+        "url": "https://sbigrowth.com/insights/ai-sales-manager-coaching-time-study"
+      }
+    ]
+  },
+  {
+    "category": "Data",
     "title": "AI adoption is table stakes. Maturity is the story.",
     "dek": "Apollo\u2019s 2026 AI in Sales & GTM Survey (n=328) finds 97% already using AI and 58% reporting benefits within 60 days \u2014 but only 17% say AI is fully operational and measured. The adoption race is over. What\u2019s left is workflow coverage, outcome lift, and ownership. Disclosure: Apollo-sponsored; treat as directional signal. Replace login vanity with a maturity scorecard, and interrogate \u201cagentic\u201d claims until use case, handoff, and measure of done are clear.",
     "date": "2026-08",
