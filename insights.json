@@ -208,5 +208,47 @@
         "url": "/autonomous-gtm-engine/lead-routing"
       }
     ]
+  },
+  {
+    "category": "Field Note",
+    "title": "Stop Building Decks \u2014 Reallocate Capacity to Coaching",
+    "dek": "Pre-IPO enablement teams of 1\u20133 build leverage by codifying a repeatable operating system and reallocating hours from content-factory work toward coaching and deal inspection \u2014 not by lobbying for headcount. LXA/Seismic\u2019s State of Revenue Enablement 2026 shows GenAI-for-selling topping the skills agenda while content management collapsed to a 1% priority. CRO Report guidance: put ~20% of enablement effort into enabling managers, and treat unused content (~65% never used) as a distribution problem. Monday motion: audit the calendar, move blocks into deal reviews and manager kits, measure coaching/inspection hours vs deck production. Disclosure: LXA/Seismic ecosystem research; SalesHood vendor piece \u2014 directional, not a product endorsement.",
+    "date": "2026-08",
+    "readTime": "4 min",
+    "sources": [
+      {
+        "label": "Seismic \u2014 Insights from State of Revenue Enablement 2026 (Jul 15, 2026)",
+        "url": "https://www.seismic.com/blog/insights-of-revenue-enablement-2026/"
+      },
+      {
+        "label": "LXA \u2014 State of Revenue Enablement 2026 (report landing)",
+        "url": "https://www.lxahub.com/resource-state-of-revenue-enablement-2026"
+      },
+      {
+        "label": "CRO Report \u2014 Sales Enablement Strategy 2026: Building the Function",
+        "url": "https://thecroreport.com/blog/sales-enablement-strategy-2026/"
+      },
+      {
+        "label": "SalesHood \u2014 Modern Revenue Enablement Org Design (Aug 1, 2026; vendor \u2014 disclose)",
+        "url": "https://saleshood.com/blog/sales-enablement-org-design/"
+      }
+    ]
+  },
+  {
+    "category": "State of Play",
+    "title": "The First Enablement Hire: Why You Need an Operating System Builder, Not a Content Machine",
+    "dek": "Most CROs hire a trainer or buy a platform when they need a system builder who codifies process. CRO Report: make the first hire when informal enablement breaks \u2014 typically at 10\u201315 quota\u2011carrying reps \u2014 and hire a generalist with field credibility (2+ years carrying a bag), not a pure content specialist. 90\u2011day signal: audit and listen \u2192 ship onboarding \u2192 organize existing content \u2192 close the three biggest gaps. Illustrative (not survey): cutting ramp 5\u21923.5 months at ~$400K quota \u2248 ~$46K pipeline capacity per hire (CRO Report). SalesHood (disclose): strong enablement leaders come from many backgrounds \u2014 sales managers, PMM, SEs, top performers, RevOps \u2014 hire for execution competencies, not a single prior title. No product endorsement.",
+    "date": "2026-08",
+    "readTime": "4 min",
+    "sources": [
+      {
+        "label": "CRO Report \u2014 Sales Enablement Strategy 2026 (first hire, 90 days, illustrative ramp math)",
+        "url": "https://thecroreport.com/blog/sales-enablement-strategy-2026/"
+      },
+      {
+        "label": "SalesHood \u2014 Modern Revenue Enablement Org Design / hiring backgrounds (Aug 1, 2026; vendor \u2014 disclose)",
+        "url": "https://saleshood.com/blog/sales-enablement-org-design/"
+      }
+    ]
   }
 ]
