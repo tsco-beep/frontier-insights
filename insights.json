@@ -1,17 +1,17 @@
 [
   {
     "category": "Data",
-    "title": "The enablement KPI is adherence \u2014 not another AI seat.",
-    "dek": "Supered\u2019s State of Sales Enablement 2026 (n=198) finds 89% of teams define a sales process but only 36% see reps follow it \u2014 a 53-point Enablement Execution Gap. Highest-frequency deal inspection hits quota at 6.3\u00d7 rare inspection; workflow-embedded guidance associates with 49% high-quota attainment vs 15% in docs/LMS. Disclosure: Supered-sponsored industry research; directional, cite-with-attribution; not a product endorsement. Binary stage-exit checks in CRM, a manager inspection cadence you can staff, then one propose-only copilot. KPI = adherence \u2014 not AI seats.",
+    "title": "The enablement KPI is adherence — not another AI seat.",
+    "dek": "Supered’s State of Sales Enablement 2026 (n=198) finds 89% of teams define a sales process but only 36% see reps follow it — a 53-point Enablement Execution Gap. Highest-frequency deal inspection hits quota at 6.3× rare inspection; workflow-embedded guidance associates with 49% high-quota attainment vs 15% in docs/LMS. Disclosure: Supered-sponsored industry research; directional, cite-with-attribution; not a product endorsement. Binary stage-exit checks in CRM, a manager inspection cadence you can staff, then one propose-only copilot. KPI = adherence — not AI seats.",
     "date": "2026-08",
     "readTime": "4 min",
     "sources": [
       {
-        "label": "Supered \u2014 State of Sales Enablement 2026",
+        "label": "Supered — State of Sales Enablement 2026",
         "url": "https://www.supered.io/state-of-sales-enablement/"
       },
       {
-        "label": "Supered \u2014 What Is the Sales Execution Gap?",
+        "label": "Supered — What Is the Sales Execution Gap?",
         "url": "https://www.supered.io/blog/what-is-the-sales-execution-gap/"
       }
     ]
@@ -19,33 +19,33 @@
   {
     "category": "Data",
     "title": "AI saved ~5 hours. Most teams spent none of it on selling.",
-    "dek": "Gartner\u2019s May 19, 2026 CSO survey (n=210) finds AI saves sellers 4.8 hours/week \u2014 yet 72% of sales orgs report low reinvestment of that time into high-value selling. Orgs that reinvest moderate-to-large AI time savings are 2.2\u00d7 more likely to exceed customer-growth goals and 3.1\u00d7 on lead-to-opportunity conversion. Disclosure: Gartner conference press materials; not Frontier-commissioned; no vendor ranking. Name the reinvestment target (coaching hours, deal inspection, or a selling block) before the next seat; human accept on every CRM write.",
+    "dek": "Gartner’s May 19, 2026 CSO survey (n=210) finds AI saves sellers 4.8 hours/week — yet 72% of sales orgs report low reinvestment of that time into high-value selling. Orgs that reinvest moderate-to-large AI time savings are 2.2× more likely to exceed customer-growth goals and 3.1× on lead-to-opportunity conversion. Disclosure: Gartner conference press materials; not Frontier-commissioned; no vendor ranking. Name the reinvestment target (coaching hours, deal inspection, or a selling block) before the next seat; human accept on every CRM write.",
     "date": "2026-08",
     "readTime": "4 min",
     "sources": [
       {
-        "label": "Gartner / Business Wire \u2014 AI saves sellers nearly five hours/week; 72% fail to reinvest (May 19, 2026)",
+        "label": "Gartner / Business Wire — AI saves sellers nearly five hours/week; 72% fail to reinvest (May 19, 2026)",
         "url": "https://www.businesswire.com/news/home/20260519504410/en/"
       },
       {
-        "label": "Gartner Newsroom \u2014 AI time savings and reinvestment (May 19, 2026)",
+        "label": "Gartner Newsroom — AI time savings and reinvestment (May 19, 2026)",
         "url": "https://www.gartner.com/en/newsroom/press-releases/2026-05-19-gartner-survey-finds-ai-saves-sellers-nearly-five-hours-per-week-yet-seventy-two-percent-of-sales-organizations-fail-to-reinvest-time-in-high-value-activities"
       },
       {
-        "label": "Gartner Newsroom \u2014 AI next-best-action and commercial growth (May 20, 2026)",
+        "label": "Gartner Newsroom — AI next-best-action and commercial growth (May 20, 2026)",
         "url": "https://www.gartner.com/en/newsroom/press-releases/2026-05-20-gartner-survey-finds-sales-organizations-that-provide-ai-enabled-next-best-actions-are-two-point-six-times-more-likely-to-achieve-commercial-growth"
       }
     ]
   },
   {
     "category": "Field Note",
-    "title": "Free the manager\u2019s calendar. Don\u2019t replace the coaching conversation.",
-    "dek": "SBI Growth\u2019s Jul 22, 2026 time study of 500+ frontline sales managers finds roughly half a manager\u2019s week goes to admin; a client example shifts ~4 hours/week to AI immediately. Managers who coach \u22653 hours/month/team hit 107% of team quota vs 82% with no coaching (separate SBI coaching research cited in-piece). Disclosure: SBI + Gong co-hosted dinner context \u2014 disclose both; not a product endorsement. Distinct from before/during/after coaching-product arcs. One gated call\u2192CRM draft assist, force recovered hours onto a named coaching ritual, leave the 1:1 human.",
+    "title": "Free the manager’s calendar. Don’t replace the coaching conversation.",
+    "dek": "SBI Growth’s Jul 22, 2026 time study of 500+ frontline sales managers finds roughly half a manager’s week goes to admin; a client example shifts ~4 hours/week to AI immediately. Managers who coach ≥3 hours/month/team hit 107% of team quota vs 82% with no coaching (separate SBI coaching research cited in-piece). Disclosure: SBI + Gong co-hosted dinner context — disclose both; not a product endorsement. Distinct from before/during/after coaching-product arcs. One gated call→CRM draft assist, force recovered hours onto a named coaching ritual, leave the 1:1 human.",
     "date": "2026-08",
     "readTime": "3 min",
     "sources": [
       {
-        "label": "SBI Growth \u2014 AI Frees Manager Time \u2014 Coaching Still Takes a Human (Jul 22, 2026)",
+        "label": "SBI Growth — AI Frees Manager Time — Coaching Still Takes a Human (Jul 22, 2026)",
         "url": "https://sbigrowth.com/insights/ai-sales-manager-coaching-time-study"
       }
     ]
@@ -53,25 +53,25 @@
   {
     "category": "Data",
     "title": "AI adoption is table stakes. Maturity is the story.",
-    "dek": "Apollo\u2019s 2026 AI in Sales & GTM Survey (n=328) finds 97% already using AI and 58% reporting benefits within 60 days \u2014 but only 17% say AI is fully operational and measured. The adoption race is over. What\u2019s left is workflow coverage, outcome lift, and ownership. Disclosure: Apollo-sponsored; treat as directional signal. Replace login vanity with a maturity scorecard, and interrogate \u201cagentic\u201d claims until use case, handoff, and measure of done are clear.",
+    "dek": "Apollo’s 2026 AI in Sales & GTM Survey (n=328) finds 97% already using AI and 58% reporting benefits within 60 days — but only 17% say AI is fully operational and measured. The adoption race is over. What’s left is workflow coverage, outcome lift, and ownership. Disclosure: Apollo-sponsored; treat as directional signal. Replace login vanity with a maturity scorecard, and interrogate “agentic” claims until use case, handoff, and measure of done are clear.",
     "date": "2026-08",
     "readTime": "4 min",
     "sources": [
       {
-        "label": "Apollo / PR Newswire \u2014 Only 6% of GTM leaders think AI will replace their teams (Aug 11, 2026)",
+        "label": "Apollo / PR Newswire — Only 6% of GTM leaders think AI will replace their teams (Aug 11, 2026)",
         "url": "https://www.prnewswire.com/news-releases/only-6-of-go-to-market-leaders-think-ai-will-replace-their-teams-apollo-report-finds-302847520.html"
       }
     ]
   },
   {
     "category": "Signal",
-    "title": "Content that doesn\u2019t travel dies.",
-    "dek": "ZoomInfo\u2019s Aug 11 GTM MCP connector for Microsoft Copilot Studio is stack-shape signal, not a shopping list: B2B context into Dynamics, Excel, Word, and M365 Copilot \u2014 with a broader headless layer naming Agentforce, HubSpot Breeze, Gong, LeanData, and custom agents. Enablement content that only works in one vendor UI becomes friction people route around. Activate the stack you already own; treat MCP fluency as an architecture question (what travels, who entitles it, what agents may do). No product endorsement.",
+    "title": "Content that doesn’t travel dies.",
+    "dek": "ZoomInfo’s Aug 11 GTM MCP connector for Microsoft Copilot Studio is stack-shape signal, not a shopping list: B2B context into Dynamics, Excel, Word, and M365 Copilot — with a broader headless layer naming Agentforce, HubSpot Breeze, Gong, LeanData, and custom agents. Enablement content that only works in one vendor UI becomes friction people route around. Activate the stack you already own; treat MCP fluency as an architecture question (what travels, who entitles it, what agents may do). No product endorsement.",
     "date": "2026-08",
     "readTime": "3 min",
     "sources": [
       {
-        "label": "ZoomInfo IR \u2014 Data now integrated with Microsoft Copilot Studio (Aug 11, 2026)",
+        "label": "ZoomInfo IR — Data now integrated with Microsoft Copilot Studio (Aug 11, 2026)",
         "url": "https://ir.zoominfo.com/news-releases/news-release-details/zoominfo-data-now-integrated-microsoft-copilot-studio-and"
       }
     ]
@@ -79,12 +79,12 @@
   {
     "category": "State of Play",
     "title": "Discovery is becoming a validation meeting.",
-    "dek": "G2\u2019s Aug 7 analysis (citing the 2026 Buyer Behavior Report) finds buyers who used an AI chatbot to build their shortlist bought from that shortlist in at least three of their last five purchases 80% of the time, versus 65% without. Discovery is increasingly validation \u2014 arm champions with proof-packs, sharpen competitive narrative, and run a monthly \u201cwhat does AI say about us?\u201d ritual. Gong 77%/65% figures appear secondhand via G2 only \u2014 attribute carefully.",
+    "dek": "G2’s Aug 7 analysis (citing the 2026 Buyer Behavior Report) finds buyers who used an AI chatbot to build their shortlist bought from that shortlist in at least three of their last five purchases 80% of the time, versus 65% without. Discovery is increasingly validation — arm champions with proof-packs, sharpen competitive narrative, and run a monthly “what does AI say about us?” ritual. Gong 77%/65% figures appear secondhand via G2 only — attribute carefully.",
     "date": "2026-08",
     "readTime": "4 min",
     "sources": [
       {
-        "label": "G2 Learn \u2014 How AI search is changing the sales pipeline (Aug 7, 2026)",
+        "label": "G2 Learn — How AI search is changing the sales pipeline (Aug 7, 2026)",
         "url": "https://learn.g2.com/how-ai-search-is-changing-the-sales-pipeline"
       }
     ]
@@ -92,45 +92,45 @@
   {
     "category": "Data",
     "title": "Commitment without proof is a budget risk.",
-    "dek": "LXA\u2019s State of Revenue Enablement 2026 (with Seismic; n=201) puts strategic commitment at 87% (+19pts since 2022) while only 49% can demonstrate ROI. Judge enablement on productivity, win rate, quota attainment, and cycle length \u2014 not CMS vanity. Only 6% say AI is central today vs 55% who expect agents to replace \u226525% of revenue roles in 24 months. Disclosure: LXA/Seismic ecosystem research. Commitment bought the seat; proof keeps it.",
+    "dek": "LXA’s State of Revenue Enablement 2026 (with Seismic; n=201) puts strategic commitment at 87% (+19pts since 2022) while only 49% can demonstrate ROI. Judge enablement on productivity, win rate, quota attainment, and cycle length — not CMS vanity. Only 6% say AI is central today vs 55% who expect agents to replace ≥25% of revenue roles in 24 months. Disclosure: LXA/Seismic ecosystem research. Commitment bought the seat; proof keeps it.",
     "date": "2026-08",
     "readTime": "4 min",
     "sources": [
       {
-        "label": "LXA \u2014 State of Revenue Enablement 2026",
+        "label": "LXA — State of Revenue Enablement 2026",
         "url": "https://www.lxahub.com/resource-state-of-revenue-enablement-2026"
       },
       {
-        "label": "Seismic \u2014 Insights from State of Revenue Enablement 2026 (Jul 15, 2026)",
+        "label": "Seismic — Insights from State of Revenue Enablement 2026 (Jul 15, 2026)",
         "url": "https://www.seismic.com/blog/insights-of-revenue-enablement-2026/"
       },
       {
-        "label": "MarketScale \u2014 Seismic benchmark ties enablement to win rates, quota, cycle (Aug 2, 2026)",
+        "label": "MarketScale — Seismic benchmark ties enablement to win rates, quota, cycle (Aug 2, 2026)",
         "url": "https://www.marketscale.com/industries/marketing-tech/seismics-benchmark-report-ties-sales-enablement-directly-to-win-rates-quota-attainment-and-cycle-length"
       }
     ]
   },
   {
     "category": "Field Note",
-    "title": "The coaching loop is practice \u2192 live assist \u2192 post-call.",
-    "dek": "Stack-shape example (not a recommendation): Zoom Revenue Accelerator\u2019s before/during/after arc \u2014 roleplay, live assist, post-call review \u2014 plus MCP portability. Enablement owns scenario design, methodology mapping, and live-AI governance; managers own inspection and follow-through. Pilot one motion under consumption pricing, measure behavior change, then scale. AI amplifies a clear ownership split; it doesn\u2019t replace it.",
+    "title": "The coaching loop is practice → live assist → post-call.",
+    "dek": "Stack-shape example (not a recommendation): Zoom Revenue Accelerator’s before/during/after arc — roleplay, live assist, post-call review — plus MCP portability. Enablement owns scenario design, methodology mapping, and live-AI governance; managers own inspection and follow-through. Pilot one motion under consumption pricing, measure behavior change, then scale. AI amplifies a clear ownership split; it doesn’t replace it.",
     "date": "2026-08",
     "readTime": "3 min",
     "sources": [
       {
-        "label": "Zoom / GlobeNewswire \u2014 ZRA AI that drives revenue action (Jul 22, 2026)",
+        "label": "Zoom / GlobeNewswire — ZRA AI that drives revenue action (Jul 22, 2026)",
         "url": "https://www.globenewswire.com/news-release/2026/07/22/3331398/0/en/Zoom-Revenue-Accelerator-unveils-AI-that-drives-revenue-action-not-just-insights.html"
       },
       {
-        "label": "MarketScale \u2014 ZRA AI guidance before/during/after (Aug 5, 2026)",
+        "label": "MarketScale — ZRA AI guidance before/during/after (Aug 5, 2026)",
         "url": "https://www.marketscale.com/industries/marketing-tech/zoom-revenue-accelerator-now-delivers-ai-guidance-before-during-and-after-every-sales-call"
       }
     ]
   },
   {
     "category": "Signal",
-    "title": "Gong wrapped its agents in a governance layer \u2014 the tool got agent-ready, the operating model is the work left",
-    "dek": "On June 24, 2026, Gong launched \"Mission Big Dipper\" and the Gong Revenue Harness, an agentic execution layer that governs and orchestrates AI agents across the revenue cycle, built on its Agent Studio and MCP support. The interesting move is not the dozen new agents. It is that Gong is selling orchestration and governance \u2014 an admission that agents without a defined process create risk, not revenue. If you buy the agents but skip the loop design \u2014 Signal to Reasoning to Action to System of Record \u2014 you inherited a faster way to do an undefined job.",
+    "title": "Gong wrapped its agents in a governance layer — the tool got agent-ready, the operating model is the work left",
+    "dek": "On June 24, 2026, Gong launched \"Mission Big Dipper\" and the Gong Revenue Harness, an agentic execution layer that governs and orchestrates AI agents across the revenue cycle, built on its Agent Studio and MCP support. The interesting move is not the dozen new agents. It is that Gong is selling orchestration and governance — an admission that agents without a defined process create risk, not revenue. If you buy the agents but skip the loop design — Signal to Reasoning to Action to System of Record — you inherited a faster way to do an undefined job.",
     "date": "2026-06",
     "readTime": "3 min",
     "sources": [
@@ -142,7 +142,7 @@
   },
   {
     "category": "State of Play",
-    "title": "MCP just got an enterprise auth layer \u2014 the CRM spine can now connect once and inherit everywhere",
+    "title": "MCP just got an enterprise auth layer — the CRM spine can now connect once and inherit everywhere",
     "dek": "On June 18, 2026, the Model Context Protocol's Enterprise-Managed Authorization extension went stable, letting an org provision MCP server access through its identity provider so tools connect on first login with no per-app OAuth. Okta ships first as the IdP; Anthropic, Microsoft, and VS Code are early clients; Asana, Atlassian, Canva, Figma, Granola, and Linear are among the servers. For RevOps, this removes the quiet tax that kept most integrations switched off: the per-user consent grind. The plumbing to make your CRM and warehouse a governed spine for agents is now a login, not a project.",
     "date": "2026-06",
     "readTime": "3 min",
@@ -155,8 +155,8 @@
   },
   {
     "category": "Data",
-    "title": "Salesforce Agentforce crossed $1B ARR \u2014 proof platforms went agent-ready faster than the process around them",
-    "dek": "In Q1 FY2027 (reported May 27, 2026), Salesforce said Agentforce ARR passed $1 billion, reaching $1.2B, up 205% year over year; combined AI and data ARR (Agentforce plus Data 360) hit ~$3.4B. Two quarters earlier, in Q3 FY2026, Agentforce alone had only \"surpassed half a billion,\" with the bundle near $1.4B \u2014 a reminder that ARR figures swing by quarter and by what's bundled. The pricing tells the real story: Salesforce shifted to agentic license agreements and premium SKUs to \"remove friction.\" Define the loop before you buy the seats.",
+    "title": "Salesforce Agentforce crossed $1B ARR — proof platforms went agent-ready faster than the process around them",
+    "dek": "In Q1 FY2027 (reported May 27, 2026), Salesforce said Agentforce ARR passed $1 billion, reaching $1.2B, up 205% year over year; combined AI and data ARR (Agentforce plus Data 360) hit ~$3.4B. Two quarters earlier, in Q3 FY2026, Agentforce alone had only \"surpassed half a billion,\" with the bundle near $1.4B — a reminder that ARR figures swing by quarter and by what's bundled. The pricing tells the real story: Salesforce shifted to agentic license agreements and premium SKUs to \"remove friction.\" Define the loop before you buy the seats.",
     "date": "2026-05",
     "readTime": "3 min",
     "sources": [
@@ -172,26 +172,26 @@
   },
   {
     "category": "State of Play",
-    "title": "The best GTM teams aren't buying enablement tools \u2014 they're turning top reps into tool builders",
-    "dek": "ICONIQ's May 2026 \"Building the Modern GTM Org\" report found high-AI-adoption teams generate roughly 2x net-new ARR per GTM FTE ($640K vs $370K) and ~10-point lifts in conversion (lead-to-MQL 38% vs 27%; MQL-to-SQL 37% vs 29%). The pattern underneath: some top AEs are moving into internal tooling roles, and teams are choosing to build AI capacity rather than simply add headcount. The takeaway isn't \"buy AI\" \u2014 it's re-org around who can build with it.",
+    "title": "The best GTM teams aren't buying enablement tools — they're turning top reps into tool builders",
+    "dek": "ICONIQ's May 2026 \"Building the Modern GTM Org\" report found high-AI-adoption teams generate roughly 2x net-new ARR per GTM FTE ($640K vs $370K) and ~10-point lifts in conversion (lead-to-MQL 38% vs 27%; MQL-to-SQL 37% vs 29%). The pattern underneath: some top AEs are moving into internal tooling roles, and teams are choosing to build AI capacity rather than simply add headcount. The takeaway isn't \"buy AI\" — it's re-org around who can build with it.",
     "date": "2026-05",
     "readTime": "4 min",
     "sources": [
       {
-        "label": "ICONIQ Growth \u2014 Building the Modern GTM Org (May 2026)",
+        "label": "ICONIQ Growth — Building the Modern GTM Org (May 2026)",
         "url": "https://www.iconiq.com/growth/reports/gtm-org-structure-ai-2026"
       }
     ]
   },
   {
     "category": "Signal",
-    "title": "Okta's CRO says the first sales call is now validation, not discovery \u2014 and rebuilt the methodology around it",
+    "title": "Okta's CRO says the first sales call is now validation, not discovery — and rebuilt the methodology around it",
     "dek": "On the GTMnow Podcast (April 29, 2026), Okta CRO Jon Addison described a turnaround from roughly $850M in operating losses to over $760M in operating income, and named GTM specialization as decision one. Buyers now arrive with opinions formed before any rep shows up, so Okta reframed the traditional first call from discovery to validation and built a new methodology, APEX, on top of Command of the Message. The lesson for revenue leaders: the front of the funnel changed shape, so the playbook has to change with it.",
     "date": "2026-04",
     "readTime": "4 min",
     "sources": [
       {
-        "label": "GTMnow Podcast \u2014 Jon Addison, Okta CRO, Apr 29 2026",
+        "label": "GTMnow Podcast — Jon Addison, Okta CRO, Apr 29 2026",
         "url": "https://gtmnow.com/okta-ai-agents-identity-security-crisis-jon-addison/"
       }
     ]
@@ -199,37 +199,37 @@
   {
     "category": "Field Note",
     "title": "Before you route a lead to an agent, write down the three checks a human does in five seconds",
-    "dek": "Teams rush to automate lead routing and then wonder why good leads stall. Sit with your best SDR and capture the snap judgments they make \u2014 the fit read, the intent read, the timing read \u2014 that they can't quite articulate but never get wrong. Encode those three checks as the routing rule, and only then hand the loop to an agent. Automation amplifies whatever logic you feed it; make sure it's the logic your best human already trusts.",
+    "dek": "Teams rush to automate lead routing and then wonder why good leads stall. Sit with your best SDR and capture the snap judgments they make — the fit read, the intent read, the timing read — that they can't quite articulate but never get wrong. Encode those three checks as the routing rule, and only then hand the loop to an agent. Automation amplifies whatever logic you feed it; make sure it's the logic your best human already trusts.",
     "date": "2026-07",
     "readTime": "2 min",
     "sources": [
       {
-        "label": "Frontier Revenue \u2014 Autonomous GTM Engine: Lead Routing",
+        "label": "Frontier Revenue — Autonomous GTM Engine: Lead Routing",
         "url": "/autonomous-gtm-engine/lead-routing"
       }
     ]
   },
   {
     "category": "Field Note",
-    "title": "Stop Building Decks \u2014 Reallocate Capacity to Coaching",
-    "dek": "Pre-IPO enablement teams of 1\u20133 build leverage by codifying a repeatable operating system and reallocating hours from content-factory work toward coaching and deal inspection \u2014 not by lobbying for headcount. LXA/Seismic\u2019s State of Revenue Enablement 2026 shows GenAI-for-selling topping the skills agenda while content management collapsed to a 1% priority. CRO Report guidance: put ~20% of enablement effort into enabling managers, and treat unused content (~65% never used) as a distribution problem. Monday motion: audit the calendar, move blocks into deal reviews and manager kits, measure coaching/inspection hours vs deck production. Disclosure: LXA/Seismic ecosystem research; SalesHood vendor piece \u2014 directional, not a product endorsement.",
+    "title": "Stop Building Decks — Reallocate Capacity to Coaching",
+    "dek": "Pre-IPO enablement teams of 1–3 build leverage by codifying a repeatable operating system and reallocating hours from content-factory work toward coaching and deal inspection — not by lobbying for headcount. LXA/Seismic’s State of Revenue Enablement 2026 shows GenAI-for-selling topping the skills agenda while content management collapsed to a 1% priority. CRO Report guidance: put ~20% of enablement effort into enabling managers, and treat unused content (~65% never used) as a distribution problem. Monday motion: audit the calendar, move blocks into deal reviews and manager kits, measure coaching/inspection hours vs deck production. Disclosure: LXA/Seismic ecosystem research; SalesHood vendor piece — directional, not a product endorsement.",
     "date": "2026-08",
     "readTime": "4 min",
     "sources": [
       {
-        "label": "Seismic \u2014 Insights from State of Revenue Enablement 2026 (Jul 15, 2026)",
+        "label": "Seismic — Insights from State of Revenue Enablement 2026 (Jul 15, 2026)",
         "url": "https://www.seismic.com/blog/insights-of-revenue-enablement-2026/"
       },
       {
-        "label": "LXA \u2014 State of Revenue Enablement 2026 (report landing)",
+        "label": "LXA — State of Revenue Enablement 2026 (report landing)",
         "url": "https://www.lxahub.com/resource-state-of-revenue-enablement-2026"
       },
       {
-        "label": "CRO Report \u2014 Sales Enablement Strategy 2026: Building the Function",
+        "label": "CRO Report — Sales Enablement Strategy 2026: Building the Function",
         "url": "https://thecroreport.com/blog/sales-enablement-strategy-2026/"
       },
       {
-        "label": "SalesHood \u2014 Modern Revenue Enablement Org Design (Aug 1, 2026; vendor \u2014 disclose)",
+        "label": "SalesHood — Modern Revenue Enablement Org Design (Aug 1, 2026; vendor — disclose)",
         "url": "https://saleshood.com/blog/sales-enablement-org-design/"
       }
     ]
@@ -237,16 +237,16 @@
   {
     "category": "State of Play",
     "title": "The First Enablement Hire: Why You Need an Operating System Builder, Not a Content Machine",
-    "dek": "Most CROs hire a trainer or buy a platform when they need a system builder who codifies process. CRO Report: make the first hire when informal enablement breaks \u2014 typically at 10\u201315 quota\u2011carrying reps \u2014 and hire a generalist with field credibility (2+ years carrying a bag), not a pure content specialist. 90\u2011day signal: audit and listen \u2192 ship onboarding \u2192 organize existing content \u2192 close the three biggest gaps. Illustrative (not survey): cutting ramp 5\u21923.5 months at ~$400K quota \u2248 ~$46K pipeline capacity per hire (CRO Report). SalesHood (disclose): strong enablement leaders come from many backgrounds \u2014 sales managers, PMM, SEs, top performers, RevOps \u2014 hire for execution competencies, not a single prior title. No product endorsement.",
+    "dek": "Most CROs hire a trainer or buy a platform when they need a system builder who codifies process. CRO Report: make the first hire when informal enablement breaks — typically at 10–15 quota‑carrying reps — and hire a generalist with field credibility (2+ years carrying a bag), not a pure content specialist. 90‑day signal: audit and listen → ship onboarding → organize existing content → close the three biggest gaps. Illustrative (not survey): cutting ramp 5→3.5 months at ~$400K quota ≈ ~$46K pipeline capacity per hire (CRO Report). SalesHood (disclose): strong enablement leaders come from many backgrounds — sales managers, PMM, SEs, top performers, RevOps — hire for execution competencies, not a single prior title. No product endorsement.",
     "date": "2026-08",
     "readTime": "4 min",
     "sources": [
       {
-        "label": "CRO Report \u2014 Sales Enablement Strategy 2026 (first hire, 90 days, illustrative ramp math)",
+        "label": "CRO Report — Sales Enablement Strategy 2026 (first hire, 90 days, illustrative ramp math)",
         "url": "https://thecroreport.com/blog/sales-enablement-strategy-2026/"
       },
       {
-        "label": "SalesHood \u2014 Modern Revenue Enablement Org Design / hiring backgrounds (Aug 1, 2026; vendor \u2014 disclose)",
+        "label": "SalesHood — Modern Revenue Enablement Org Design / hiring backgrounds (Aug 1, 2026; vendor — disclose)",
         "url": "https://saleshood.com/blog/sales-enablement-org-design/"
       }
     ]
